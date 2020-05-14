@@ -1,1 +1,1 @@
-# MyGITProject
+# MyGITRepo
